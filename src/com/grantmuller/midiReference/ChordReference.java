@@ -1,4 +1,4 @@
-package com.grantmuller;
+package com.grantmuller.midiReference;
 
 import java.util.EnumSet;
 import java.util.HashMap;
