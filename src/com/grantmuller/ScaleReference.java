@@ -1,4 +1,4 @@
-package midiReference;
+package com.grantmuller;
 
 //TODO: Consider using "combo" scales to create scales here, and allow the creation of combo scales
 //using lower and upper scale values...consult Mathieu...

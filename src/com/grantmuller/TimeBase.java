@@ -1,4 +1,4 @@
-package midiReference;
+package com.grantmuller;
 
 import java.util.EnumSet;
 import java.util.HashMap;
