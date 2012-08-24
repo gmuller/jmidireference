@@ -6,13 +6,18 @@ MidiReference is a Java library created to make using midi with Java (and Proces
 
 MidiReference is made up of the following classes:
 
-<ul>
-    <li><strong>MidiReference </strong>- Contains methods to translate midi note numbers and events into scales, chords, and other meaningful musical data.</li>
-    <li><strong>NoteReference </strong>- Enum class providing access to base note numbers and string names</li>
-    <li><strong>ChordReference </strong>- Enum class providing access to integer arrays of various types of chords</li>
-    <li><strong>ScaleReference </strong>- Enum class providing access to integer arrays of various types of scales</li>
-    <li><strong>TimeBase </strong>- Enum class providing access to rhythm values based on a 24PPQ Midi Clock. Useful when syncing MIDI to and external device</li>
-</ul>
+<dl class="dl-horizontal">
+    <dt>MidiReference</dt>
+    <dd>Contains methods to translate midi note numbers and events into scales, chords, and other meaningful musical data.</dd>
+    <dt>NoteReference</dt>
+    <dd>Enum class providing access to base note numbers and string names</dd>
+    <dt>ChordReference</dt>
+    <dd>Enum class providing access to integer arrays of various types of chords</dd>
+    <dt>ScaleReference</dt>
+    <dd>Enum class providing access to integer arrays of various types of scales</dd>
+    <dt>TimeBase</dt>
+    <dd>Enum class providing access to rhythm values based on a 24PPQ Midi Clock. Useful when syncing MIDI to and external device</dd>
+</dl>
 
 Please report any problems, suggestions, feedback here.
 
