@@ -29,4 +29,4 @@ Javadocs can be found <a href="http://www.grantmuller.com/MidiReference/doc/inde
 
 <a href="https://github.com/downloads/gmuller/jmidireference/jmidireference-1.0.jar">jmidirefence 1.0</a>
 
-You can check out the source or report an issue <a href="https://github.com/gmuller/jmidireference">here</a>
+You can check out the source or report an issue <a href="https://github.com/gmuller/jmidireference/issues">here</a>
