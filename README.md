@@ -1,7 +1,5 @@
 # JMidiReference
 
-## Introduction
-
 MidiReference is a Java library created to make using midi with Java (and Processing) more musical. The library can be added any project and used to to translate back in forth between MIDI and musical terms. This class does not provide access to the MIDI I/O of the machine, but is rather a way for the developer to act on and create MIDI events based on musical language.
 
 MidiReference is made up of the following classes:
